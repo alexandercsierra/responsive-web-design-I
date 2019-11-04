@@ -328,6 +328,11 @@ ul {
         font-size: 17px;
     }
 
+    .learnButton {
+        width: 40%;
+        height: 4%;
+    }
+
     .services {
         margin: 2%;
     }
@@ -414,6 +419,12 @@ ul {
         margin: 0;
     }
 
+    .learnButton {
+        margin-top: 10px;
+        width: 60%;
+        height: 4%;
+    }
+
     hr {
         width: 95%;
     }
@@ -455,7 +466,7 @@ ul {
     .footerFacts {
         display: flex;
         justify-content: center;
-        align-items: center;
+        align-
     }
 
     .footerFacts .someFacts {
